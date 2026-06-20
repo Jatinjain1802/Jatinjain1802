@@ -1,47 +1,72 @@
-```markdown
-# Hii There 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Jatin Jain!&fontSize=40&fontAlignY=35&animation=twinkling&desc=Building%20Scalable%20Solutions%20with%20Impact" />
+</div>
 
-## About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full%20Stack%20Developer%20|%20Automation%20%26%20Product-Focused&react&nextjs&nodejs&aws" alt="Typing SVG" />
+</div>
 
-As a passionate MERN Stack Developer, I'm dedicated to building innovative solutions that drive real-world impact. With a strong foundation in AI-powered applications, automation workflows, and scalable web platforms, I'm committed to staying at the forefront of technological advancements. My expertise spans React.js, Node.js, REST APIs, and AI integrations such as RAG and LLM APIs, enabling me to craft seamless and efficient software experiences.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jatinjain1802&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Visitor badge" />
+</p>
 
-With a keen interest in product development, workflow optimization, and startup-driven execution, I thrive in fast-paced environments where creativity and problem-solving skills are highly valued. As a collaborative team player, I've honed my ability to communicate effectively, coordinate workflows, and deliver high-quality results that exceed expectations.
+<table align="center" width="100%" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>🚀 About Me</h2>
+      <p>
+        As a seasoned MERN Stack Developer, I specialize in building scalable and efficient solutions that drive business value. With a strong background in automation and product-focused development, I excel at streamlining complex workflows and delivering high-quality products that meet the needs of today's fast-paced market. My expertise in React.js, Node.js, and REST APIs enables me to craft robust and maintainable applications that meet the demands of modern software development.
+      </p>
+      <p>
+        With a keen interest in product development and workflow optimization, I continuously strive to improve my skills and stay up-to-date with the latest technologies and trends. My passion for building practical solutions with real-world impact drives me to push the boundaries of what is possible with software development.
+      </p>
+      <br/>
+      <h3>⚡ Quick Facts</h3>
+      <ul>
+        <li>🔭 <strong>Current Focus:</strong> Full-stack development and automation</li>
+        <li>🌱 <strong>Currently Learning:</strong> Cloud-based architecture and advanced AI integrations</li>
+        <li>💡 <strong>Domain Expertise:</strong> E-commerce, fintech, and software development</li>
+        <li>📫 <strong>Contact:</strong> <a href="https://github.com/Jatinjain1802">@Jatinjain1802</a></li>
+      </ul>
+      <br/>
+      <div align="left">
+        <a href="https://github.com/Jatinjain1802"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+      </div>
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="90%" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
-## Tech Stack
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<p align="center">
+  <i>Languages & Core</i><br/>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,mdx&theme=dark&perline=12" />
+</p>
+<p align="center">
+  <i>react,nextjs,nodejs,aws,docker,kubernetes,expressjs,mysql,mongodb</i><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,aws,docker,kubernetes,expressjs,mysql,mongodb&theme=dark&perline=12" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinjain1802&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinjain1802&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">📊 Analytics & Activity</h2>
 
-## GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatinjain1802&theme=tokyo-night&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&hide_border=true" width="100%" />
+</p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jatinjain1802&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jatinjain1802&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatinjain1802&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</p>
 
-```markdown
-## Projects
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jatinjain1802&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true" />
+</p>
 
-### WhatsApp Ordering System (Fully Automated)
-
-- Built monitoring interfaces for tracking customer orders and operational activities in real time.
-- Improved workflow efficiency by automating repetitive order processing and communication tasks.
-- Built responsive and user-friendly admin interfaces for easy order monitoring and management.
-- Tech Stack: React, Tailwind CSS, Node.js, Express.js, MySQL, WhatsApp Cloud API, n8n (Automation)
-
-### SheetSage AI (Intelligent document processing)
-
-- Designed and implemented a modular document-processing platform with structured workflows for scalability and maintainability.
-- Built an automated PDF processing pipeline to extract structured and unstructured data into organized CSV and Excel formats.
-- Integrated AI-driven conversational workflows for natural language-based data interaction and manipulation.
-- Developed analytics dashboards with dynamic chart generation for better data visualization and reporting.
-- Created responsive interfaces with real-time processing feedback and workflow interaction.
-- Tech Stack: HTML5, JavaScript, Tailwind CSS, Chart.js, Node.js, Express.js, Groq SDK (Llama-3), ExcelJS, csv-parser, pdf-parse, Multer, Git, Vercel
-
-### NexaHub (AI-Powered E-commerce with Instagram Automation)
-
-- Developed an automation-driven e-commerce platform integrating Instagram engagement with sales workflows.
-- Managed customer interaction workflows including automated replies, product queries, and engagement handling systems.
-- Coordinated automation processes for real-time product communication and workflow execution through API integrations.
-- Built analytics dashboards to monitor user interactions, conversions, and operational performance.
-- Focused on improving execution efficiency through AI-assisted automation and scalable backend workflows.
-- Tech Stack: React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Meta Graph API, Groq AI (Llama-3), Cloudinary
-```
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
